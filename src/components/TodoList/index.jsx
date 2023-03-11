@@ -4,6 +4,7 @@ import "./styles.css";
 const TodoList = () => {
   const handleDelete = (todoId) => {
     // Fix an ability to delete task
+    //holaaa
   };
 
   const toggleCheck = (todoId, isChecked) => {
